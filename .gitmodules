@@ -1,3 +1,30 @@
 [submodule "bean-util"]
 	path = bean-util
 	url = git@github.com:leeonky/bean-util.git
+[submodule "jfactory"]
+	path = jfactory
+	url = git@github.com:leeonky/jfactory.git
+[submodule "DAL-java"]
+	path = DAL-java
+	url = git@github.com:leeonky/DAL-java.git
+[submodule "interpreter-core"]
+	path = interpreter-core
+	url = git@github.com:leeonky/interpreter-core.git
+[submodule "jfactory-repo-jpa"]
+	path = jfactory-repo-jpa
+	url = git@github.com:leeonky/jfactory-repo-jpa.git
+[submodule "jfactory-cucumber"]
+	path = jfactory-cucumber
+	url = git@github.com:leeonky/jfactory-cucumber.git
+[submodule "jfactory-property-value"]
+	path = jfactory-property-value
+	url = git@github.com:leeonky/jfactory-property-value.git
+[submodule "DAL-extension-basic"]
+	path = DAL-extension-basic
+	url = git@github.com:leeonky/DAL-extension-basic.git
+[submodule "RESTful-cucumber"]
+	path = RESTful-cucumber
+	url = git@github.com:leeonky/RESTful-cucumber.git
+[submodule "view-mapper"]
+	path = view-mapper
+	url = git@github.com:leeonky/view-mapper.git

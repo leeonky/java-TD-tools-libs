@@ -1,9 +1,16 @@
 rootProject.name = 'java-TD-tools-libs'
 
 gradle.ext.set('projects', [
-        'bean-util'
+        ':bean-util',
+        ':jfactory',
+        ':jfactory-cucumber',
+        ':jfactory-property-value',
+        ':jfactory-repo-jpa',
+        ':interpreter-core',
+        ':DAL-java',
+        ':DAL-extension-basic',
+        ':RESTFul-cucumber',
+        ':view-mapper'
 ])
 
-include(
-        ':bean-util',
-)
+include(*gradle.ext.projects)
