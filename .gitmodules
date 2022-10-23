@@ -1,0 +1,3 @@
+[submodule "bean-util"]
+	path = bean-util
+	url = git@github.com:leeonky/bean-util.git

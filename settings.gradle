@@ -1,7 +1,9 @@
-rootProject.name = 'libs'
+rootProject.name = 'java-TD-tools-libs'
 
-gradle.ext.set("projects", ["bean-util"])
+gradle.ext.set('projects', [
+        'bean-util'
+])
 
 include(
-//        ':',
+        ':bean-util',
 )
