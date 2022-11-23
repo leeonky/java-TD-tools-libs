@@ -2,6 +2,7 @@ rootProject.name = 'java-TD-tools-libs'
 
 gradle.ext.set('projects', [
         ':bean-util',
+        ':java-compiler-util',
         ':jfactory',
         ':jfactory-cucumber',
         ':jfactory-property-value',
