@@ -28,3 +28,6 @@
 [submodule "view-mapper"]
 	path = view-mapper
 	url = git@github.com:leeonky/view-mapper.git
+[submodule "java-compiler-util"]
+	path = java-compiler-util
+	url = git@github.com:leeonky/java-compiler-util.git
