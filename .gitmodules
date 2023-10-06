@@ -31,3 +31,6 @@
 [submodule "java-compiler-util"]
 	path = java-compiler-util
 	url = git@github.com:leeonky/java-compiler-util.git
+[submodule "DAL-extension-jdbc"]
+	path = DAL-extension-jdbc
+	url = git@github.com:leeonky/DAL-extension-jdbc.git

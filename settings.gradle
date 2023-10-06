@@ -10,6 +10,7 @@ gradle.ext.set('projects', [
         ':interpreter-core',
         ':DAL-java',
         ':DAL-extension-basic',
+        ':DAL-extension-jdbc',
         ':RESTful-cucumber',
         ':view-mapper'
 ])
