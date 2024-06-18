@@ -12,7 +12,8 @@ gradle.ext.set('projects', [
         ':DAL-extension-basic',
         ':DAL-extension-jdbc',
         ':RESTful-cucumber',
-        ':view-mapper'
+        ':view-mapper',
+        ':test-util'
 ])
 
 include(*gradle.ext.projects)

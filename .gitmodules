@@ -34,3 +34,6 @@
 [submodule "DAL-extension-jdbc"]
 	path = DAL-extension-jdbc
 	url = git@github.com:leeonky/DAL-extension-jdbc.git
+[submodule "test-util"]
+	path = test-util
+	url = git@github.com:leeonky/test-util.git
